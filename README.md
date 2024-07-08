@@ -2,7 +2,6 @@
 Interactive Power BI Dashboard
 The project aimed to provide actionable insights into employee performance, attrition, and engagement by analyzing various HR data sources.
 Deliverables: Comprehensive HR data analysis report summarizing key findings, insights, and recommendations.
-Predictive models for employee turnover and performance prediction.
 Interactive dashboard for monitoring HR metrics.
 Benefits: Gained hands-on experience in HR analytics and data-driven decision-making.
 Enhanced technical skills in data preprocessing, analysis, and visualization.
